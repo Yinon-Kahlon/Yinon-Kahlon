@@ -1,4 +1,4 @@
-# Yinon Kahlon | Computer Engineering Student 👋
+# Yinon Kahlon | Computer Engineering Student 
 
 ### 🛠️ Technical Profile
 I am a 2nd-year Computer Engineering student at Ruppin Academic Center, specializing in low-level programming and system design. I have a strong foundation in data structures and memory management, with a proven track record of independent, self-directed learning.
