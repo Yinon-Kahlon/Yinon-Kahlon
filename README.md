@@ -1,23 +1,27 @@
-# Hi, I'm Yinon 👋
+# Yinon Kahlon | Computer Engineering Student 👋
 
-### 🚀 Computer Engineering Student | 2nd Year @ Ruppin Academic Center
-I am a passionate Computer Engineering student focused on building efficient software and exploring hardware-software integration. I enjoy solving complex problems using C, Python, and Assembly.
-
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** C, C++, Python, Assembly (x86), Java
-- **Tools:** Git, VS Code, Linux, Pygame
-- **Interests:** Data Structures, Embedded Systems, AI Integration
-
-### 📂 Featured Projects
-- **EasyCharge:** A C-based EV charging station management system utilizing Binary Search Trees (BST) and Queues for optimized performance.
-- **[New Python Project]:** (Soon to be added) A professional-grade game with high-quality graphics and physics.
+### 🛠️ Technical Profile
+I am a 2nd-year Computer Engineering student at Ruppin Academic Center, specializing in low-level programming and system design. I have a strong foundation in data structures and memory management, with a proven track record of independent, self-directed learning.
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](LINK_TO_YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL@example.com)
+### 📂 Key Projects
+* **[EasyCharge](https://github.com/Yinon941/EasyCharge) (C):** Scalable EV charging management system.
+  * Implemented nested data structures (BST, Queues) with $O(\log n)$ retrieval.
+  * Handled manual memory management and complex pointer logic.
+* **SkyRush (Python/Pygame):** OOP-based 2D game.
+  * Features real-time collision detection and dynamic difficulty scaling.
 
 ---
-*“Engineering is about solving problems with logic and persistence.”*
+
+### 💻 Tech Stack
+* **Languages:** C, C++, Python, Assembly (x86)
+* **Hardware:** Logic Circuits, Computer Architecture, Digital Systems
+* **Tools:** Git, Linux, VS Code, LTspice
+
+---
+
+### 📝 About Me
+I balance a full-time professional career with a rigorous engineering curriculum. This unique background has developed my high-level time management skills and the ability to master complex technical concepts autonomously.
+
+[LinkedIn](https://www.linkedin.com/in/yinon-kahlon/) | [Email](mailto:Yinon941@gmail.com)
