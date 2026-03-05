@@ -7,7 +7,7 @@ I am a 2nd-year Computer Engineering student at Ruppin Academic Center, speciali
 
 ### 📂 Key Projects
 * **[EasyCharge](https://github.com/Yinon941/EasyCharge) (C):** Scalable EV charging management system.
-  * Implemented nested data structures (BST, Queues) with $O(\log  n)$ retrieval.
+  * Implemented nested data structures (BST, Queues) with $O(\log \ n)$ retrieval.
   * Handled manual memory management and complex pointer logic.
 * **[SkyRush](https://github.com/Yinon-Kahlon/SkyRush) (Python/Pygame):** OOP-based 2D game.
   * Features real-time collision detection and dynamic difficulty scaling.
