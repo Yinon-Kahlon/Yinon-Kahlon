@@ -9,6 +9,8 @@ I am a 2nd-year Computer Engineering student at Ruppin Academic Center, speciali
 * **[EasyCharge](https://github.com/Yinon941/EasyCharge) (C):** Scalable EV charging management system.
   * Implemented nested data structures (BST, Queues) with $O(\log \ n)$ retrieval.
   * Handled manual memory management and complex pointer logic.
+* **[4-Bit ALU](https://github.com/Yinon-Kahlon/4-bit-alu-verilog) (Verilog):** Combinational ALU supporting 8 operations.
+  * Designed with a 3-bit opcode; verified via testbench and GTKWave waveform analysis.
 * **[SkyRush](https://github.com/Yinon-Kahlon/SkyRush) (Python/Pygame):** OOP-based 2D game.
   * Features real-time collision detection and dynamic difficulty scaling.
 
