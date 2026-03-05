@@ -19,7 +19,7 @@ I am a 2nd-year Computer Engineering student at Ruppin Academic Center, speciali
 ### 💻 Tech Stack
 * **Languages:** C, C++, Python
 * **Hardware:** Logic Circuits, Computer Architecture, Digital Systems, Verilog (basic RTL)
-* **Tools:** Git, Linux, VS Code, LTspice
+* **Tools:** Git, Linux, VS Code, LTspice, Icarus Verilog, GTKWave
 
 ---
 
